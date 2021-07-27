@@ -1,0 +1,155 @@
+
+body{
+margin :0;
+text-align: center;
+}
+.lol{
+font-family: 'Dancing Script', cursive;
+font-size: 5.625rem;
+margin: 50px auto 0 auto;
+ color:  #66BFBF;
+ line-height: 2;
+}
+img{
+  width: 100px;
+}
+.mountain{
+  width: 700px;
+  background-color: #E4F9F5;
+  bottom: 0;
+  }
+.bottom-cloud{
+  position:absolute;
+  width: 200px;
+  left: 300px;
+}
+.top-cloud{
+  position:absolute;
+  width: 200px;
+  right:300px;
+  top:50px;
+}
+.top-container{
+  background-color:#E4F9F5;
+  position:relative;
+  padding-top: 200px;
+}
+.a-programmer{
+font-family: 'Hammersmith One', sans-serif;
+font-size: 2.5rem;
+color:  #66BFBF;
+font-weight: normal;
+}
+.bruno{
+  text-decoration: underline;
+}
+.hlo{
+  width: 400px;
+  border-radius: 100%;
+}
+hr{
+  background-color: black;
+  height: 1px;
+}
+.hlopart{
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 2.5rem;
+  color: #11999E;
+}
+.nah{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right:  30px;
+  position:relative;
+  bottom: 30px;
+
+}
+.loloo{
+  color: #11999E;
+  font-family: 'Hammersmith One', sans-serif;
+}
+.naha{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  position: relative;
+  right:50px;
+  bottom: 50px;
+}
+.lololo{
+  color: #11999E;
+    font-family: 'Hammersmith One', sans-serif;
+}
+a{
+    color: #11999E;
+}
+.lala{
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+  margin-top: 100px;
+}
+.nono{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+.My-Skills{
+  font-size: 4em;
+font-family: 'Dancing Script', cursive;
+  color:  #11999E;
+}
+.development{
+  font-weight: normal;
+  line-height: 2
+}
+.nonono{
+  font-size: 1.17em;
+  line-height: 2
+}
+hr {
+  border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 05%;
+    background-color: white;
+    text-align: center;
+}
+.popo{
+  color: #66BFBF;
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 3em;
+}
+.oppo{
+    color:  #11999E;
+      font-family: 'Hammersmith One', sans-serif;
+}
+.conta{
+width:150px;
+height:50px;
+border-radius: 8px;
+background-color:#66BFBF;
+}
+.nopo{
+  background-color: #66BFBF;
+  height: 100px;
+  margin-top: 40px;
+}
+a{
+color: #11999E;
+      font-family: 'Hammersmith One', sans-serif;
+      margin: 20px 20px 20px 20px;
+      padding-top: 30px;
+      text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+
+}
+.yoyo{
+  color: #EAF6F6;
+}
